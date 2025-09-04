@@ -1,0 +1,14 @@
+Hi
+My name is Atharv
+I have passed my class 12th from RPS international school gurugram
+I seek interest in making new innovative AI models to make life for a average human being easier
+I like integrating small details like shortcuts using AI to make my life easier
+I also have a great interest in computer hardware
+I have a lot of experience in sound equalizers
+create a portfolio website using html +css only
+website design:
+Website should have modern animations and seamless transitions between tabs
+the website should be in the color scheme of black and sapphire blue
+the text must be bold concise and must have a attractive font and must have a monochrome text shadow
+website must include a very clean and minimal tech background
+there should be no external link
